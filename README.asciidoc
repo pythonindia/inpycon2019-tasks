@@ -4,10 +4,9 @@ The repository will contain process documents, logo and other artwork
 developed for PyCon India 2019. Issues will be used for tracking
 tasks. And the wiki will be used for co-ordinating work.
 
-= Workgroup Co-ordinators
+= Workgroups
 
-The various workgroups and the corresponding co-ordinators are listed
-below:
+The various workgroups and the corresponding leads are listed below:
 
   * CFP: Abishek Yadav, Naren
   * Diversity: Sharmila
