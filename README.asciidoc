@@ -1,3 +1,19 @@
 = Documents and Tasks for PyCon India 2019
 
-The repository will contain process documents, logo and other artwork developed for PyCon India 2019. Issues will be used for tracking tasks. And the wiki will be used for co-ordinating work.
+The repository will contain process documents, logo and other artwork
+developed for PyCon India 2019. Issues will be used for tracking
+tasks. And the wiki will be used for co-ordinating work.
+
+= Workgroup Co-ordinators
+
+The various workgroups and the corresponding co-ordinators are listed
+below:
+
+  * CFP: Abishek Yadav, Naren
+  * Diversity: Sharmila
+  * Promotion: Raj Kumar, Rengaraj
+  * Social Responsibility: TBD
+  * Sponsorship: Senthil, Ramanathan
+  * Venue & Logistics: Vijay Kumar
+  * Website & Design: Siva
+
